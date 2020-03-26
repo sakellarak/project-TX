@@ -1,2 +1,1 @@
-# project-TX
-#Team-plan-v0.1
+# Team-plan-v0.1
