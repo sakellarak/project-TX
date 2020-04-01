@@ -17,13 +17,21 @@ Team Plan v0.11 – E-food για μαστόρια
 Θα κάνουμε χρήση:
 
 Wamp για υλοποίηση και testing της βάσης δεδομένων
+
 Microsoft Word/Libreoffice Writer για εκπόνηση τεχνικών κειμένων και σχετικές ανάγκες
+
 Trello υλοποίηση kanban εξ’αποστάσεως
+
 GitHub για οργάνωση του codebase μας
+
 Visual Paradigm για σχεδιασμός διάφορων charts
+
 Notepad++ ισχυρός και ελαφρύς cross-platform text editor
+
 IntelliJ IDEA IDE για web-based programming
+
 Discord εργαλείο τηλεδιάσκεψης (παρόμοιο με το slack)
 
+Draw.io για γενικές γραφιστικές ανάγκες
 
 GitHub Project: https://github.com/sakellarak/project-TX
