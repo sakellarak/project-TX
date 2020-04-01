@@ -1,4 +1,4 @@
-Team Plan v0.11 – E-food για μαστόρια
+Team Plan v0.11 – E-tech
 
 Φοιτητές: 
 
