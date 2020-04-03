@@ -18,8 +18,7 @@ e-Freelance
 Κουρής Μιχάλης (peer reviewer)
 
  
-
-![alt text](https://raw.github.com/sakellarak/project-TX/tree/master/images/pert-v0.1.png)
+![Pert Chart](https://i.imgur.com/XwBGUvp.png)
 
 Το Pert Chart  για την έκδοση v0.1 αφορά μια πρώτη εκτίμηση των διαδικασιών που απαιτούνται για την υλοποίηση του έργου καθώς και τον χρονοπρογραμματισμό αυτών.
 
