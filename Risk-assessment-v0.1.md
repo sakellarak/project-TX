@@ -1,4 +1,4 @@
-# Risk assessment v0.1
+# Risk assessment
 
 Έκδοση v0.1
 
