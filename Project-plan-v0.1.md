@@ -64,6 +64,7 @@ https://imgur.com/Kg3ZwUX ---> link για την εικόνα
                   
 
 
+
                                    Καταμερισμός Έργου σε Ανθρώπινο Δυναμικό    
 
 
@@ -89,6 +90,7 @@ https://imgur.com/Kg3ZwUX ---> link για την εικόνα
 
 
 https://imgur.com/ro8DmV7 ---> link για την εικόνα
+
 
 
 
