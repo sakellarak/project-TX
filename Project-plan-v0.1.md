@@ -19,11 +19,7 @@ e-Freelance
 
  
 
-
-
-                                                  Pert Chart 
-
-
+![alt text](https://raw.github.com/sakellarak/project-TX/tree/master/images/pert-v0.1.png)
 
 Το Pert Chart  για την έκδοση v0.1 αφορά μια πρώτη εκτίμηση των διαδικασιών που απαιτούνται για την υλοποίηση του έργου καθώς και τον χρονοπρογραμματισμό αυτών.
 
