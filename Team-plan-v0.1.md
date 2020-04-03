@@ -1,5 +1,5 @@
 # Team Plan
-έκδοση v0.1
+Έκδοση v0.1
 
 e-Freelance
 
