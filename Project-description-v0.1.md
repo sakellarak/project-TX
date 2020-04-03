@@ -1,7 +1,6 @@
-# Project-description-v0.1
-Project description
+# Project description
 
-Έκδοση v 0.1
+Έκδοση v0.1
 
 
 e-Freelance
