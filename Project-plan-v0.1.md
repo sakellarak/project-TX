@@ -1,7 +1,6 @@
-# Project-plan-v0.1
-Project plan
+# Project plan
 
-Έκδοση v 0.1
+Έκδοση v0.1
 
 
 e-Freelance
