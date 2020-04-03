@@ -1,4 +1,6 @@
-Team Plan v0.11 – E-tech
+Team Plan v0.11  
+
+e-Freelance
 
 Φοιτητές: 
 
