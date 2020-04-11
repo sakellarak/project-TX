@@ -1,6 +1,6 @@
 # Project description
 
-Έκδοση v0.1
+Έκδοση v0.2
 
 
 e-Freelance
