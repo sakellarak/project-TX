@@ -52,7 +52,7 @@ https://imgur.com/XwBGUvp ---> link για την εικόνα
 
          
 
-                                                                        Gant Chart
+                                                   Gant Chart
 
 
 
