@@ -21,7 +21,7 @@ e-Freelance
 
 Έχουμε δύο κλάσεις χειριστών, του επαγγελματίες και τους πελάτες. Μελετάμε τα use-cases και των δύο.
 
-
+![use cases diagram](https://i.imgur.com/UlGV8mk.png)
 
 Use-Cases Πελάτη
 
