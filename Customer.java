@@ -10,13 +10,27 @@ public class Customer extends User
 {
     public String address;
     public int paymentID;
-    public Customer(String name, String password, int userID, String email, int telephone_number, String address, int paymentID){
+    boolean flag=true;
+    int len;
+    
+        public Customer(String name, String password, int userID, String email, int telephone_number, String address, int paymentID){
         super(name, password, userID, email, telephone_number);
     }    
     public void getInfo() {
-    System.out.println(name + password + userID + email + telephone_number+ address + paymentID);
+    System.out.println(name + password + userID + email + telephone_number+ this.address + this.paymentID);
     }
-    public void check() {}
+    public boolean checkaddress() {
+        System.out.println("true");
+        return true;
+    }
     public void update() {}
-    public void checkpass() {}
+    public boolean checkpassword() {
+        len=password.length();
+    if (len>16 || len<4){
+        flag= false;
+        System.out.println("password not okay");
+    }
+    return flag;
+    }
+    public void checktelephonenumber(){}
 }
