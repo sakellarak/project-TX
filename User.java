@@ -28,7 +28,7 @@ public class User
         len=password.length();
     if (len>16 || len<4){
         flag= false;
-        System.out.println("password okay");
+        System.out.println("password not okay");
     }
     return flag;
     }

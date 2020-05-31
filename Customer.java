@@ -15,6 +15,8 @@ public class Customer extends User
     
         public Customer(String name, String password, int userID, String email, int telephone_number, String address, int paymentID){
         super(name, password, userID, email, telephone_number);
+        this.address=address;
+        this.paymentID=paymentID;
     }    
     public void getInfo() {
     System.out.println(name + password + userID + email + telephone_number+ this.address + this.paymentID);
@@ -25,6 +27,7 @@ public class Customer extends User
     }
     public void update() {}
     public boolean checkpassword() {
+        this.password=password;
         len=password.length();
     if (len>16 || len<4){
         flag= false;
