@@ -1,10 +1,3 @@
-
-/**
- * Superclass client kai pro den 8a exei instances
- *
- * @author kourhs
- * 
- */
 public class User
 {
     public String name;
@@ -12,8 +5,10 @@ public class User
     public int userID;
     public String email;
     public int telephone_number;
+
     public int len;
     public boolean flag=true;
+
     public User(String name, String password, int userID, String email, int telephone_number){
     this.name=new String(name);
     this.password=new String(password);
