@@ -44,7 +44,7 @@ public class Professional extends User{
 
     public void getInfo() {
         
-        System.out.println(name + telephone_number + jobDescription);
+        System.out.println(name + " " + telephone_number + " " + jobDescription);
     }
 
     public void inRange() {}
