@@ -10,7 +10,7 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 
 	<?php
-		$selectedID = 3; //hardcoded ID epagelmatia
+		$selectedID = 1; //hardcoded ID epagelmatia
 		$host = "localhost";
 		$username = "root";
 		$pass = "";
